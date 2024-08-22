@@ -281,16 +281,6 @@ thead th, tbody td {
     font-family: 'NanumSquareNeoB';
 }
 
-.wrap_board_free_list .page_nav ul li.disabled a {
-    color: #daeede;
-    pointer-events: none; /* 비활성화된 링크는 클릭할 수 없도록 */
-}
-
-.page_li.active a {
-    font-weight: bold;
-    color: #5FD7FF; /* 현재 페이지를 강조하는 색상 */
-}
-
 .wrap_board_free_list .page_nav .right {
     margin-left: auto;
 }
